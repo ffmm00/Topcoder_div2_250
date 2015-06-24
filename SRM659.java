@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class SRM599 {
+public class SRM659 {
 
 	public int countReachableIslands(int[] positions, int L) {
 
