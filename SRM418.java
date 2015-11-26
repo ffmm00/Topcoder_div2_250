@@ -6,7 +6,6 @@ public class SRM418 {
 		for (int i = 1;; i++) {
 			e -= myUnits;
 
-
 			if (e <= 0)
 				return i;
 
